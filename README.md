@@ -19,7 +19,7 @@ we have the navbar at the bottom which has 3 fragments , home , events and notif
 when there are new events it would get listed and yiu can register by clicking the green button. closer to the time of event you would get a notification to remind you.
 ( this feature was functioning but didnt make it past testing ) deffinently somthing we can look to improve on.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*************************************************************************************************************************************************************************
 
 TESTING
 for testing i used esspresso testing and used it to help the view actions in my application when dealing with the adapters and database. i also have the correct dependency files in the gradle.
